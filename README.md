@@ -1,7 +1,7 @@
 # Student_Managent_System
 ## 학생관리시스템
 
-* Java, JDBC를 이용한 학생관리시스템. 
+* Java, JDBC(MySQL)를 이용한 학생관리시스템. 
 
 ## 주 기능
 
