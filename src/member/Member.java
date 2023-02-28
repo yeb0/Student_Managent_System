@@ -1,4 +1,4 @@
-package Member;
+package member;
 
 /**
  * 1. 회원번호 - memberNumber (ex : 1.. 2.. 3.. ) // PK로 지정한다. Generated.. 값이 1씩 증가하게끔.
